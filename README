@@ -1,0 +1,8 @@
+This implements the algorithm described at
+http://www.cs.wisc.edu/niagara/papers/xdiff.pdf
+by Wang, DeWitt and Cai. ICDE 2003.
+
+This is not production quality code.
+In fact, it barely works at all.
+
+Use it as a learning tool.
